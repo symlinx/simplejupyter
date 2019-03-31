@@ -1,8 +1,9 @@
 # simplejupyter
-A Docker image for Jupyter based on the official Python Docker image which. It brings the latest version of Jupyter and supports Python 2 and Python 3 kernels.
+A Docker image for Jupyter based on the official Python image.
+It brings the latest version of Jupyter and supports Python 2 and Python 3 kernels.
 
-The slim version is the lightest one but doesn't include TeX distribution so some export features may not work.
-Th full version incudes a full TeX distribution and supports all export features (PDF, TeX, LaTeX, Postscript)
+The slim version is the lightest one but doesn't include a TeX distribution. Consequently, some export features may not work.
+Th full version incudes a full TeX distribution and supports all export features (PDF, TeX, LaTeX, Postscript...)
 
 ## Build
 
